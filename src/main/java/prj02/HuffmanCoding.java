@@ -24,7 +24,7 @@ import Tree.*;
  *
  * @author Fernando J. Bermudez Medina (Template)
  * @author A. ElSaid (Review)
- * @author James O Rodriguez Feliciano 802207604 (Implementation)
+ * @author James O Rodriguez Feliciano (Implementation)
  * @version 2.0
  * @since 10/16/2021
  */
